@@ -114,9 +114,9 @@ const formSlice = createSlice({
 
 
 export const {initForm, changeValue, setErrors, validateForm} = formSlice.actions
-
-export default formSlice.reducer
+const FormReducer = formSlice.reducer
+export default FormReducer
 
 export const formValues = state => state.form.value
 export const formErrors = state => state.form.errors
-export const validForm = state => state.form.valid
+export const isValid = state => state.form.valid
