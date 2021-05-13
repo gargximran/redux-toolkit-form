@@ -1,6 +1,6 @@
 {
   "name": "redux-toolkit-form",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "With this form you can manage your react form with redux toolkit easily, this just a slice to handle all the action of form",
   "main": "index.js",
   "scripts": {
