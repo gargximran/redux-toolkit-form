@@ -1,0 +1,31 @@
+{
+  "name": "redux-toolkit-form",
+  "version": "1.0.0",
+  "description": "With this form you can manage your react form with redux toolkit easily, this just a slice to handle all the action of form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gargximran/redux-toolkit-form.git"
+  },
+  "keywords": [
+    "redux",
+    "toolkit",
+    "form",
+    "slice",
+    "reducer",
+    "form",
+    "handler"
+  ],
+  "author": "Imran Hossain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gargximran/redux-toolkit-form/issues"
+  },
+  "homepage": "https://github.com/gargximran/redux-toolkit-form#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.1"
+  }
+}
